@@ -34,11 +34,11 @@ The data was analyzed using Python and the following supporting libraries:
 
 ## Folders
 The project files are stored in following folder structure:
-01 Project Management: Project brief
-02 Data: Separated into two subfolders 'IC24 Original Data' which contains the original datasets and 'IC24 Prepared Data' which contains the data frames after they have been cleaned and prepared for analysis. (Data files not uploaded to GitHub due to size limitations.)
-03 Scripts: Jupyter notebooks containing coding for the analysis.
-04 Analysis: 'Visualizations' subfolder contains the visualizations used for developing and explaining insights.
-05 Sent to Client: The final report presented in Excel.
+- 01 Project Management: Project brief
+- 02 Data: Contains two subfolders 'IC24 Original Data' with original datasets, and 'IC24 Prepared Data' with cleaned datasets ready for analysis. (Data files not uploaded to GitHub due to size limitations.)
+- 03 Scripts: Jupyter notebooks containing coding for the analysis.
+- 04 Analysis: 'Visualizations' subfolder contains the visualizations used for developing and explaining insights.
+- 05 Sent to Client: The final report presented in Excel.
 
 ## Resources & Disclaimer
 
